@@ -1,7 +1,7 @@
 # Hi, I'm Subarno 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Backend+Developer;Python+Enthusiast;Learning+Systems+and+ML&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Computer+Science+Student;Backend+Developer;Python+Enthusiast;Learning+Systems+and+ML&center=true&width=500&height=45">
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 **Frameworks & Tools**
 
-`Django` `Git` `GitHub` `Linux`
+`Django` `Git` `GitHub` 
 
 ---
 
@@ -39,11 +39,6 @@
 
 ---
 
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueabstract\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📌 Projects I'm Working On
 
@@ -53,11 +48,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/blueabstract/blueabstract/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
